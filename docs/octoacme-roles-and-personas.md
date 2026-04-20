@@ -79,3 +79,13 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+## Product Owner
+- Sets product vision, prioritizes backlog, links business needs and development.
+## Process Owner
+- Maintains/improves PM processes, coaches team on methodologies.
+## Project Sponsor
+- Provides resources, removes organizational barriers, strategic oversight.
+## Knowledge Manager:
+- Keeps docs/processes current, maintains information discoverability.
+## Onboarding Coordinator
+- Facilitates new member integration, ensures training, and knowledge transfer.
